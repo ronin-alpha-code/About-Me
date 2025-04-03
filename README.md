@@ -32,11 +32,16 @@ Experienced **Ruby on Rails Developer** with expertise in designing, developing,
 - Coded websites using **HTML, CSS, JavaScript, jQuery, GraphQL, and Vue.js**.
 - Improved CI/CD workflows to streamline deployments.
 
-### **Ruby on Rails Software Engineer** - *Witmates Technologies* *(Jul 2022 – Present)*  
+### **Ruby on Rails Software Engineer** - *Witmates Technologies* *(Jul 2022 – Dec 2024)*  
 - Developed, tested, and maintained **scalable applications** using Ruby on Rails.
 - Designed and implemented **RESTful APIs**, improving functionality and efficiency.
 - Optimized database queries, leading to a **25% boost in performance**.
 - Integrated **CI/CD pipelines** to automate deployment processes.
+
+
+### **Junior Software Engineer** - *Witmates Technologies* *(Jan 2022 – Jul 2022)*  
+- Developed, tested, and maintained **scalable applications** using Ruby on Rails.
+- Designed and implemented **RESTful APIs**, improving functionality and efficiency.
 
 ---
 
